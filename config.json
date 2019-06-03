@@ -1,0 +1,39 @@
+
+{
+
+   "params":
+   {
+      "local_server": "True",
+       "local_uri": "mysql://root:@localhost/pythonista",
+        "prod_uri": "mysql://root:@localhost/pythonista",
+        "fb_url": "https://facebook.com/askkrishnaforpython",
+        "tw_url": "https://twitter.com/askkrishnaforpython",
+        "gh_url": "https://github.com/askkrishnaforpython",
+
+        "blog_name": "Ask Krishna for Python",
+
+        "blog_name1": "Krishna's Python blog",
+
+         "tag_line": "Pythonista",
+
+          "gmail-user" : "",
+           "gmail-password" :  " ",
+          "about_text" : "This is Flask Blog",
+          "no_of_posts"  : 3,
+           "login_image":"login.svg",
+          "admin_user":"harry",
+            "admin_password": "subscribenow"
+
+
+
+
+
+
+
+
+
+   }
+
+
+
+}
